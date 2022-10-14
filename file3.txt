@@ -1,2 +1,7 @@
 This is file 3
+<<<<<<< HEAD
 First change in file 3
+=======
+First change in file 3 
+Second change on the feature_a branch
+>>>>>>> feature_a
